@@ -1,0 +1,11 @@
+-main Main
+
+-cp src
+
+-lib heaps
+-lib hlsdl
+
+-D windowSize=1280x720
+-D windowTitle=Pathfinding
+
+-hl main.hl
